@@ -1,0 +1,64 @@
+/*
+	css file
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+
+}
+
+body{
+
+}
+
+section.main{
+	margin: 1em;
+}
+
+.dropdown-menu>li:hover{
+	box-shadow: 0 0.1em 0 rgba(255,0,0,0.5);
+}
+
+.active{
+	box-shadow: 0 .2em 0 red;
+}
+
+.online{
+	background: green;
+}
+
+.reg-form{
+	width: 80%;
+	margin: 2em auto;
+}
+
+.back{
+	text-align: center;
+	padding: 1em;
+}
+.registration{
+	width: 80%;
+	margin: 5em auto;
+	padding: 0 0 0 10em;
+}
+
+.registration input{
+	
+}
+.auth-form{	
+	display: table;
+	width: 50%;
+	margin: 1em auto;
+}
+.auth-cell{
+	display: table-cell;
+	border: 1px solid rgba(0,0,155,1);
+	height: 550px;
+	padding-left: 30%;
+	vertical-align: middle;
+}
+
