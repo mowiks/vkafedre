@@ -136,11 +136,13 @@
 							<?=$user['lastname']?>&nbsp;<?=$user['name']?>
 							<span class="badge online">Online</span>
 						</h4>
+<!--
 						<form enctype='multipart/form-data' action='index.php?ava=1' method='POST'>
 					 	    <input type='hidden' name='MAX_FILE_SIZE' value='20000000' />
 					 	    Выберите аватарку: <input name='userfile' class="form-control" type='file' />
 					 	    <button type="submit" style="margin-top: .5em;" class="btn btn-primary btn-sm">Сменить аватарку</button>
 					 	</form>
+-->
 					</div>
 				</div>
 				<div class="thumbnail">
