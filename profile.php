@@ -116,7 +116,7 @@
 								Отчество: <input type="text" name="patronumic" value="<?=$user['patronumic']?>">
 							</p>
 							<p>
-								Группа: ИУ7 - <input type="text" name="group_num" value="<?=$user['group_num']?>">
+								Группа: ИУ5 - <input type="text" name="group_num" value="<?=$user['group_num']?>">
 							</p>
 							<p>
 								Дата рождения: <input type="text" name="birthday" value="<?=$user['birthday']?>">

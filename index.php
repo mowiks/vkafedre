@@ -177,7 +177,7 @@
 							Отчество: <?=$user['patronumic']?>
 						</p>
 						<p>
-							Группа: ИУ7 - <?=$user['group_num']?>
+							Группа: ИУ5 - <?=$user['group_num']?>
 						</p>
 						<p>
 							Дата рождения: <?=$user['birthday']?>
